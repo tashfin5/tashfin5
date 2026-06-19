@@ -45,23 +45,23 @@
 
 ### 📂 Featured Projects
 
-* 🎓 <a href="https://github.com/tashfin5/ewu-connected" target="_blank">**EWU-Connected**</a> - A platform to connect all the students of East West University.
-* 🛍️ <a href="https://github.com/tashfin5/Lumiere" target="_blank">**Lumiere**</a> - A modern E-Commerce platform built with web technologies.
-* 📚 <a href="https://github.com/tashfin5/Utsho-App" target="_blank">**Utsho App**</a> - Utsho Coaching Management System.
-* 📸 <a href="https://github.com/tashfin5/Tonmoy-Photography" target="_blank">**Tonmoy Photography**</a> - A portfolio and booking website designed for Tonmoy Photography.
-* 🌑 <a href="https://github.com/tashfin5/DarkSight" target="_blank">**DarkSight**</a> - A browser extension to detect and countermeasure the dark patterns from e-commerce websites.
-* ⭕ <a href="https://github.com/tashfin5/TicTacToe-Online" target="_blank">**TicTacToe Online**</a> - A real-time multiplayer Tic Tac Toe game featuring both a Web Version and a Standalone Java Desktop App.
-* 🧠 <a href="https://github.com/tashfin5/mindquery" target="_blank">**Mindquery**</a> - A modern, blazing-fast, and responsive quiz application featuring a completely serverless architecture using Vercel and Neon PostgreSQL.
+* 🎓 <a href="https://github.com/tashfinn/ewu-connected" target="_blank">**EWU-Connected**</a> - A platform to connect all the students of East West University.
+* 🛍️ <a href="https://github.com/tashfinn/Lumiere" target="_blank">**Lumiere**</a> - A modern E-Commerce platform built with web technologies.
+* 📚 <a href="https://github.com/tashfinn/Utsho-App" target="_blank">**Utsho App**</a> - Utsho Coaching Management System.
+* 📸 <a href="https://github.com/tashfinn/Tonmoy-Photography" target="_blank">**Tonmoy Photography**</a> - A portfolio and booking website designed for Tonmoy Photography.
+* 🌑 <a href="https://github.com/tashfinn/DarkSight" target="_blank">**DarkSight**</a> - A browser extension to detect and countermeasure the dark patterns from e-commerce websites.
+* ⭕ <a href="https://github.com/tashfinn/TicTacToe-Online" target="_blank">**TicTacToe Online**</a> - A real-time multiplayer Tic Tac Toe game featuring both a Web Version and a Standalone Java Desktop App.
+* 🧠 <a href="https://github.com/tashfinn/mindquery" target="_blank">**Mindquery**</a> - A modern, blazing-fast, and responsive quiz application featuring a completely serverless architecture using Vercel and Neon PostgreSQL.
 
 ---
 
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tashfin5&show_icons=true&theme=react&hide_border=true&ring_color=61DAFB" alt="Tashfin's GitHub Stats" height="195" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tashfin5&layout=compact&theme=react&hide_border=true" alt="Top Languages" height="195" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tashfinn&show_icons=true&theme=react&hide_border=true&ring_color=61DAFB" alt="Tashfin's GitHub Stats" height="195" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tashfinn&layout=compact&theme=react&hide_border=true" alt="Top Languages" height="195" />
   <br>
-  <img src="https://streak-stats.demolab.com/?user=tashfin5&theme=react&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=tashfinn&theme=react&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -77,3 +77,4 @@
 <a href="https://tashfinn.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 
 </div>
+
